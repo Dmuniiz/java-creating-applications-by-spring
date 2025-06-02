@@ -6,8 +6,8 @@ Este repositório contém um estudo progressivo em **Spring, Streams, Lambdas, S
 
 O projeto é dividido em partes, cada uma adicionando novos conceitos e funcionalidades:
 
-1. **Screenmatch** - Primeira parte do estudo, explorando conceitos fundamentais.
-2. **Tabela Fipe** - Extensão baseada na parte 1, integrando novas funcionalidades e aplicando o conhecimento 
+1. **Screenmatch - Parte 1 - CommandLine** - Primeira parte do estudo, explorando conceitos fundamentais.
+2. **Tabela Fipe** - Extensão baseada na parte 1, integrando novas funcionalidades e aplicando o conhecimento
 3. **Mais 2 partes futuras** - Atualizações que serão incorporadas posteriormente.
 
 ## 🚀 Tecnologias Utilizadas
