@@ -1,4 +1,4 @@
-# 🏆 Estudo em Spring, Streams e Lambdas
+# 🏆 Começando com spring
 
 Este repositório contém um estudo progressivo em **Spring, Streams, Lambdas, SQL, API REST**, dividido em diferentes partes para aprendizado estruturado.
 
