@@ -1,6 +1,7 @@
-package br.com.alura.screenmatch_com_jpa.service.traducao;
+package br.com.alura.screenmatch.service.traducao;
 
-import br.com.alura.screenmatch_com_jpa.service.ConsumoAPI;
+
+import br.com.alura.screenmatch.service.ConsumoApi;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -10,7 +11,7 @@ public class ConsultaAPImyMemory {
 
     public static String obterTraducao(String text){
         ObjectMapper mapper = new ObjectMapper();
-        ConsumoAPI consumo = new ConsumoAPI();
+        ConsumoApi consumo = new ConsumoApi();
 
         //tratamento de url
         String texto = URLEncoder.encode(text);
