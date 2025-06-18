@@ -15,3 +15,4 @@ Este repositório representa um pouco da minha trajetória estudando para se tor
 ![image](https://github.com/user-attachments/assets/3dfdbd88-3b3c-4d0e-8af1-77e93747a083)
 ![image](https://github.com/user-attachments/assets/b1c31225-aada-40e2-82a2-a05f157588f0)
 ![image](https://github.com/user-attachments/assets/9ac60e8c-9361-4bec-be61-af88048c1bce)
+![image](https://github.com/user-attachments/assets/d7366e8c-3fd0-4a93-9ea4-36c3fec1a7c0)
